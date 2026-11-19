@@ -17,4 +17,4 @@ James
 
 ## CONTRIBUTING.md
 
-Look at [CONTRIBUTING.md](CONTRIBUTING.md) when it comes to contributing code.
+Look at [Contributing](CONTRIBUTING.md) when it comes to contributing code to this repository. Since this is a 5 year project, it would be most important if the structure was followed for newer project members to understand.
