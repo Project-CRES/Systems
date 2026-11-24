@@ -2,17 +2,20 @@
 Systems Team - currently, it is moving the spreadsheet to engingeering code, then developing maintainable code, then creating an API to request to the software (RPA in this case).
 
 ## 26/27 Team
-Austin
+Austin - 4th Year Mechanical Engineering
 
-Livia
+Livia - 3rd Year Physics
 
-Harrison
+Harrison - 3rd Year Aerospace Engineering
 
-Ali
+Ali - 3rd Year Mechanical Engineering
 
-James
+James  - 2nd Year Computer Science
 
-(hopefully alex and arnav too!)
+<!-- 
+Alex Kurkar - 2nd Year Computer Science 
+Arnav Chitriv - 2nd Year Computer Science & Physics
+-->
 
 
 ## CONTRIBUTING.md
